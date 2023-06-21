@@ -7,7 +7,7 @@ int num=num1[index];
 print(num*index);
 }
 
-
+  
 
 
 
