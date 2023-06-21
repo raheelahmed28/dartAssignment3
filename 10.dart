@@ -8,7 +8,7 @@ Map<String,double> expenses={
 
 
 };
-if (expenses.containsValue('fri')){
+if (expenses.containsKey('fri')){
   
 }
   else {
