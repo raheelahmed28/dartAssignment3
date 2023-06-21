@@ -1,14 +1,21 @@
-// void main(){
-// var num1=[23,30,48,50];
-// List <bool> num2=[];
-// for (num1=0,num1>=num1 ,num++);
-// if (num1%==2){
+void main(){
+var num1=[23,30,48,50,45];
+int evencount=0;
+int oddcount =0;
+for (int i=0 ; i <num1.length ; i++)
+if (num1[i] % 2 == 0){
 
-// ptint(add.)
-
-// }
+  evencount++;
 
 
-// }
+
+}else{
+
+
+  oddcount++;
+}
+print(" Evencount : $evencount \n OddCount  : $oddcount");
+
+}
 
 

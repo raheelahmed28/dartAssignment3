@@ -1,6 +1,6 @@
 
 void main(){
-var num1=[23,30,48,50];
+var num1=[23,30,48,50,43,5,67,8,9,5,444,23];
 List <bool> num2=[];
 for (int Number in num1){
 if (Number%2==0){
